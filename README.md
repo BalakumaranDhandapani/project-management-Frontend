@@ -1,3 +1,15 @@
+admin Login
+User:1 
+password:1
+
+user Login
+1) User:ash001
+Password:123
+
+2) User: bala143
+password: 143
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
